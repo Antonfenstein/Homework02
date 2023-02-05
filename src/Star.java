@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class star {
+public class Star {
     public static void main(String[] args) {
         System.out.println("__________________________$\n");
         System.out.println("_________________________$$$\n");
@@ -29,6 +27,5 @@ public class star {
         System.out.println("___________$_____________________________$\n");
 
     }
-
 
 }
